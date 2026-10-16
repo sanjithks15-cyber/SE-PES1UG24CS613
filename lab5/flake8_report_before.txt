@@ -1,0 +1,10 @@
+shuttle_system.py:11:1: E302 expected 2 blank lines, found 1
+shuttle_system.py:13:80: E501 line too long (82 > 79 characters)
+shuttle_system.py:16:1: E302 expected 2 blank lines, found 1
+shuttle_system.py:19:1: E302 expected 2 blank lines, found 1
+shuttle_system.py:23:1: E302 expected 2 blank lines, found 1
+shuttle_system.py:29:9: E722 do not use bare 'except'
+shuttle_system.py:33:1: E302 expected 2 blank lines, found 1
+shuttle_system.py:37:1: E302 expected 2 blank lines, found 1
+shuttle_system.py:45:1: E302 expected 2 blank lines, found 1
+shuttle_system.py:60:1: E305 expected 2 blank lines after class or function definition, found 1
